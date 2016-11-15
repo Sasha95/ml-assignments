@@ -4,6 +4,7 @@ matplotlib
 pandas
 tables
 xlrd
+h5py
+keras
 
-ipython
 jupyter
